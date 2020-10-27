@@ -1,0 +1,7 @@
+cn\itcast\ssm\dao\UserDao.class
+cn\itcast\ssm\dao\RoleDao.class
+cn\itcast\ssm\dao\OrdersDao.class
+cn\itcast\ssm\dao\PermissionDao.class
+cn\itcast\ssm\dao\ProductDao.class
+cn\itcast\ssm\dao\MemberDao.class
+cn\itcast\ssm\dao\TravellerDao.class

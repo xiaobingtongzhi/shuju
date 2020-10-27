@@ -1,0 +1,5 @@
+cn\itcast\ssm\controller\PermissionController.class
+cn\itcast\ssm\controller\RoleController.class
+cn\itcast\ssm\controller\ProductController.class
+cn\itcast\ssm\controller\OrdersController.class
+cn\itcast\ssm\controller\UserController.class

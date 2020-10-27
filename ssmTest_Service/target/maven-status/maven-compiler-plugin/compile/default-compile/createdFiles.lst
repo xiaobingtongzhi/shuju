@@ -1,0 +1,10 @@
+cn\itcast\ssm\Service\PermissionService.class
+cn\itcast\ssm\Service\impl\Productimpl.class
+cn\itcast\ssm\Service\impl\RoleServiceimpl.class
+cn\itcast\ssm\Service\impl\UserServiceimpl.class
+cn\itcast\ssm\Service\OrdersService.class
+cn\itcast\ssm\Service\UserService.class
+cn\itcast\ssm\Service\impl\PermissionServiceimpl.class
+cn\itcast\ssm\Service\impl\OrdersServiceimpl.class
+cn\itcast\ssm\Service\ProductService.class
+cn\itcast\ssm\Service\RoleService.class
